@@ -1,5 +1,7 @@
 import random
 import string
+def generatepass(n):
+    pass
 
 print("Hello.\nWelcome to my little password manager.\nGlad to see you.")
 input("Press Enter to continue")
